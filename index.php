@@ -16,7 +16,8 @@
 	</style>
 </head>
 <body>
-	<img id="logo" src="logo.png" />
+	<img id="logo1" src= https://aqueous-anchorage-76184.herokuapp.com/egoodies_lts_top.png />
+	<img id="logo" src= https://s3-us-west-2.amazonaws.com/test-egco313/Eiffel.jpg />
 	<h1><?php echo "Hello world!"; ?></h1>
 	<?php if(!$link) { ?>
 		<h2>Can't connect to local MySQL Server!</h2>
